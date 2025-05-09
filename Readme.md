@@ -13,12 +13,12 @@ Follow these steps to set up the project and run it locally:
 1. Clone this repository:
    ```sh
    git clone <repository-url>
-```sh
+   ```
 2. Install Dependencies:
    ```sh
    npm install
-```sh
-2. start local development server:
+   ```
+3. start local development server:
    ```sh
    npm start
 ```
